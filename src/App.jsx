@@ -1,11 +1,4 @@
-import {
-  Footer,
-  Blog,
-  Posstibility,
-  Features,
-  WhatGPT3,
-  Header,
-} from './containers';
+import { Footer, Blog, Posstibility, Features, WhatGPT3 } from './containers';
 import { CTA, Brand, Navbar } from './components';
 import './App.css';
 
